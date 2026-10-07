@@ -66,19 +66,3 @@ This laboratory studies ranking algorithms on directed graphs.
 
 - The results are compared with NumPy's eigenvalue decomposition. The notebooks also visualize graph topology, node rankings, and convergence behavior.
 
-## Technologies
-
-- Python
-- Jupyter Notebook
-- NumPy
-- SciPy
-- Matplotlib
-- NetworkX
-- Pillow
-
-## Running the Notebooks
-
-Install the required packages:
-
-```bash
-pip install numpy scipy matplotlib networkx pillow jupyter
